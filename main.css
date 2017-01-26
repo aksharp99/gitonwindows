@@ -1,0 +1,11 @@
+body {
+  background: lightblue;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: springgreen;
+  margin: auto;
+  
+}
